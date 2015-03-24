@@ -1,1 +1,4 @@
 This will be where I'll store my flag.
+
+I hope this is a safe location:
+stuyctf{git_branch_be_careful}
